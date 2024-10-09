@@ -1,0 +1,95 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+    <h1 class="text-center mt-4">Enter URLs</h1>
+    <form id="url-form" class="container mt-4">
+        <div id="url-container" class="mb-3">
+            <div class="url-field mb-2">
+                <input type="text" name="url" class="form-control" placeholder="Enter a URL" required>
+            </div>
+        </div>
+        <button type="button" id="add-url" class="btn btn-secondary">+</button>
+        <button type="submit" class="btn btn-primary">Submit</button>
+        <div id="url-container response-message" class="mb-3">
+            <div class="url-field mb-2">
+                {{result}}
+            </div>
+        </div>
+    </form>
+
+    <script>
+    $(document).ready(function() {
+        // Add more URL input fields when "+" button is clicked
+        $('#add-url').click(function() {
+            $('#url-container').append('<div class="url-field mb-2"><input type="text" name="url" class="form-control" placeholder="Enter a URL" required></div>');
+        });
+
+        // Submit form data (URLs) via AJAX
+        $('#url-form').submit(function(event) {
+            event.preventDefault();
+
+            // Collect all URLs into an array
+            var urls = [];
+            $('input[name="url"]').each(function() {
+                if ($(this).val() !== '') {
+                    urls.push($(this).val());
+                }
+            });
+
+            // Send the array of URLs to the backend
+            $.ajax({
+                url: './multiple_url',
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({ urls: urls }),
+                success: function(response) {
+                    $('#response-message').text(response.message);
+                },
+                error: function(error) {
+                    console.error('Error:', error);
+                    $('#response-message').text('Failed to submit URLs');
+                }
+            });
+        });
+    });
+</script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            // Add more URL input fields when "+" button is clicked
+            $('#add-url').click(function() {
+                $('#url-container').append('<div class="url-field mb-2"><input type="text" name="url" class="form-control" placeholder="Enter a URL" required></div>');
+            });
+    
+            // Submit form data (URLs) via AJAX
+            $('#url-form').submit(function(event) {
+                event.preventDefault();
+    
+                // Collect all URLs into an array
+                var urls = [];
+                $('input[name="url"]').each(function() {
+                    if ($(this).val() !== '') {
+                        urls.push($(this).val());
+                    }
+                });
+    
+                // Send the array of URLs to the backend
+                $.ajax({
+                    url: './multiple_url',
+                    type: 'POST',
+                    contentType: 'application/json',
+                    data: JSON.stringify({ urls: urls }),
+                    success: function(response) {
+                        $('#response-message').text(response.message);
+                    },
+                    error: function(error) {
+                        console.error('Error:', error);
+                        $('#response-message').text('Failed to submit URLs');
+                    }
+                });
+            });
+        });
+    </script>    
+{% endblock %}

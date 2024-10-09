@@ -1,0 +1,62 @@
+2024-10-09 22:14:13,151 - INFO - Recived URL : http://feeds.foxnews.com/foxnews/politics
+2024-10-09 22:14:15,030 - INFO - Articles parsed
+2024-10-09 22:14:19,450 - INFO - Articles saved into database.
+2024-10-09 22:22:02,413 - INFO - Recived URL : http://feeds.foxnews.com/foxnews/politics
+2024-10-09 22:22:05,919 - INFO - Articles parsed
+2024-10-09 22:22:06,241 - INFO - Article saving status : Entry with title 'Trump to hold rally at New York's Madison Square Garden ahead of Election Day' already exists. No insertion made.
+2024-10-09 22:22:06,548 - INFO - Article saving status : Entry with title 'Trump has 9-point lead on most important issue to voters: poll' already exists. No insertion made.
+2024-10-09 22:22:06,868 - INFO - Article saving status : Entry with title 'North Korean troops now fighting for Russia in Ukraine, Seoul says' already exists. No insertion made.
+2024-10-09 22:22:07,190 - INFO - Article saving status : Entry with title 'Virginia voter roll removal process violates federal law, groups allege — state fires back' already exists. No insertion made.
+2024-10-09 22:22:07,484 - INFO - Article saving status : Entry with title 'Over 5,700 children in 5-year period had gender surgeries, most from 5 liberal states: watchdog' already exists. No insertion made.
+2024-10-09 22:22:07,784 - INFO - Article saving status : Entry with title 'Swing state GOP chair slams Biden-Harris admin for being out of touch on key issue: 'Abandoned this country'' already exists. No insertion made.
+2024-10-09 22:22:08,107 - INFO - Article saving status : Entry with title 'Election board in crucial swing state sued over dispute on who will monitor election results' already exists. No insertion made.
+2024-10-09 22:22:08,438 - INFO - Article saving status : Entry with title 'As Gaza war drags past 1 year mark, hope fades for a deal to bring hostages home soon' already exists. No insertion made.
+2024-10-09 22:22:08,723 - INFO - Article saving status : Entry with title ''Abandon Harris' group endorses Jill Stein over 'pro-genocide candidate' Kamala Harris' already exists. No insertion made.
+2024-10-09 22:22:08,901 - INFO - Article saving status : Entry with title 'Conservatives dismiss Biden parole limits on 500K migrants: ‘Optics-driven smokescreen’' already exists. No insertion made.
+2024-10-09 22:22:09,078 - INFO - Article saving status : Entry with title 'Arizona begins in-person and absentee voting, here's what you need to know' already exists. No insertion made.
+2024-10-09 22:22:09,256 - INFO - Article saving status : Entry with title 'Biden-Harris admin ‘taking advice from foreign governments’ on policing speech, lawmaker charges' already exists. No insertion made.
+2024-10-09 22:22:09,433 - INFO - Article saving status : Entry with title 'Georgia Dems chair reveals message to undecided GOP voters as Harris works to build broad base' already exists. No insertion made.
+2024-10-09 22:22:09,607 - INFO - Article saving status : Entry with title 'Trump-backed House candidate rips Biden's 'joke' border policy for inviting gang violence to swing state' already exists. No insertion made.
+2024-10-09 22:22:09,782 - INFO - Article saving status : Entry with title 'From kissy-face sitdown on ‘The View’ to a tougher grilling on ‘60 Minutes,’ Kamala Harris is making news' already exists. No insertion made.
+2024-10-09 22:22:09,955 - INFO - Article saving status : Entry with title 'Tim Walz calls for elimination of Electoral College at California fundraiser, says 'it needs to go'' already exists. No insertion made.
+2024-10-09 22:22:10,131 - INFO - Article saving status : Entry with title 'Israel’s Minister of Defense cancels visit to Pentagon amid Middle East conflict escalation' already exists. No insertion made.
+2024-10-09 22:22:10,304 - INFO - Article saving status : Entry with title 'US officials reveal fate of nabbed Tajikistan illegal immigrants with alleged ISIS ties' already exists. No insertion made.
+2024-10-09 22:22:10,490 - INFO - Article saving status : Entry with title 'Fox News Politics: Harris on '60 minutes': Joe 2.0?' already exists. No insertion made.
+2024-10-09 22:22:10,668 - INFO - Article saving status : Entry with title 'Biden undermines Harris claim that Ron DeSantis is politicizing hurricane response: 'Doing a great job'' already exists. No insertion made.
+2024-10-09 22:22:10,842 - INFO - Article saving status : Entry with title 'Supreme Court signals support for Biden administration regulation of 'ghost gun' kits' already exists. No insertion made.
+2024-10-09 22:22:11,017 - INFO - Article saving status : Entry with title 'Reporter's Notebook: With no government shutdown, it feels like Christmas in September' already exists. No insertion made.
+2024-10-09 22:22:11,192 - INFO - Article saving status : Entry with title 'Prospects of a deal with Israel fade away as Saudis invite Iranian foreign minister to visit' already exists. No insertion made.
+2024-10-09 22:22:11,365 - INFO - Article saving status : Entry with title 'Early voting means 'election season' has already begun' already exists. No insertion made.
+2024-10-09 22:22:11,550 - INFO - Article saving status : Entry with title 'Overseas meth sent to US election building shuts down office for hours' already exists. No insertion made.
+2024-10-09 22:22:11,551 - INFO - Articles saved into database.
+2024-10-09 22:25:13,301 - INFO - Recived URLS : ['http://feeds.foxnews.com/foxnews/politics']
+2024-10-09 22:25:13,301 - INFO - Articles saving session started
+2024-10-09 22:25:34,325 - INFO - Recived URLS : ['http://feeds.foxnews.com/foxnews/politics']
+2024-10-09 22:25:34,325 - INFO - Articles saving session started
+2024-10-09 22:25:35,739 - INFO - Articles saving session started
+2024-10-09 22:25:35,935 - INFO - Article saving status : Entry with title 'Trump to hold rally at New York's Madison Square Garden ahead of Election Day' already exists. No insertion made.
+2024-10-09 22:25:36,107 - INFO - Article saving status : Entry with title 'Trump has 9-point lead on most important issue to voters: poll' already exists. No insertion made.
+2024-10-09 22:25:36,280 - INFO - Article saving status : Entry with title 'North Korean troops now fighting for Russia in Ukraine, Seoul says' already exists. No insertion made.
+2024-10-09 22:25:36,456 - INFO - Article saving status : Entry with title 'Virginia voter roll removal process violates federal law, groups allege — state fires back' already exists. No insertion made.
+2024-10-09 22:25:36,628 - INFO - Article saving status : Entry with title 'Over 5,700 children in 5-year period had gender surgeries, most from 5 liberal states: watchdog' already exists. No insertion made.
+2024-10-09 22:25:36,810 - INFO - Article saving status : Entry with title 'Swing state GOP chair slams Biden-Harris admin for being out of touch on key issue: 'Abandoned this country'' already exists. No insertion made.
+2024-10-09 22:25:36,982 - INFO - Article saving status : Entry with title 'Election board in crucial swing state sued over dispute on who will monitor election results' already exists. No insertion made.
+2024-10-09 22:25:37,172 - INFO - Article saving status : Entry with title 'As Gaza war drags past 1 year mark, hope fades for a deal to bring hostages home soon' already exists. No insertion made.
+2024-10-09 22:25:37,347 - INFO - Article saving status : Entry with title ''Abandon Harris' group endorses Jill Stein over 'pro-genocide candidate' Kamala Harris' already exists. No insertion made.
+2024-10-09 22:25:37,523 - INFO - Article saving status : Entry with title 'Conservatives dismiss Biden parole limits on 500K migrants: ‘Optics-driven smokescreen’' already exists. No insertion made.
+2024-10-09 22:25:37,696 - INFO - Article saving status : Entry with title 'Arizona begins in-person and absentee voting, here's what you need to know' already exists. No insertion made.
+2024-10-09 22:25:37,875 - INFO - Article saving status : Entry with title 'Biden-Harris admin ‘taking advice from foreign governments’ on policing speech, lawmaker charges' already exists. No insertion made.
+2024-10-09 22:25:38,050 - INFO - Article saving status : Entry with title 'Georgia Dems chair reveals message to undecided GOP voters as Harris works to build broad base' already exists. No insertion made.
+2024-10-09 22:25:38,223 - INFO - Article saving status : Entry with title 'Trump-backed House candidate rips Biden's 'joke' border policy for inviting gang violence to swing state' already exists. No insertion made.
+2024-10-09 22:25:38,393 - INFO - Article saving status : Entry with title 'From kissy-face sitdown on ‘The View’ to a tougher grilling on ‘60 Minutes,’ Kamala Harris is making news' already exists. No insertion made.
+2024-10-09 22:25:38,569 - INFO - Article saving status : Entry with title 'Tim Walz calls for elimination of Electoral College at California fundraiser, says 'it needs to go'' already exists. No insertion made.
+2024-10-09 22:25:38,737 - INFO - Article saving status : Entry with title 'Israel’s Minister of Defense cancels visit to Pentagon amid Middle East conflict escalation' already exists. No insertion made.
+2024-10-09 22:25:38,922 - INFO - Article saving status : Entry with title 'US officials reveal fate of nabbed Tajikistan illegal immigrants with alleged ISIS ties' already exists. No insertion made.
+2024-10-09 22:25:39,100 - INFO - Article saving status : Entry with title 'Fox News Politics: Harris on '60 minutes': Joe 2.0?' already exists. No insertion made.
+2024-10-09 22:25:39,280 - INFO - Article saving status : Entry with title 'Biden undermines Harris claim that Ron DeSantis is politicizing hurricane response: 'Doing a great job'' already exists. No insertion made.
+2024-10-09 22:25:39,450 - INFO - Article saving status : Entry with title 'Supreme Court signals support for Biden administration regulation of 'ghost gun' kits' already exists. No insertion made.
+2024-10-09 22:25:39,631 - INFO - Article saving status : Entry with title 'Reporter's Notebook: With no government shutdown, it feels like Christmas in September' already exists. No insertion made.
+2024-10-09 22:25:39,799 - INFO - Article saving status : Entry with title 'Prospects of a deal with Israel fade away as Saudis invite Iranian foreign minister to visit' already exists. No insertion made.
+2024-10-09 22:25:39,982 - INFO - Article saving status : Entry with title 'Early voting means 'election season' has already begun' already exists. No insertion made.
+2024-10-09 22:25:40,165 - INFO - Article saving status : Entry with title 'Overseas meth sent to US election building shuts down office for hours' already exists. No insertion made.
+2024-10-09 22:25:40,165 - INFO - Articles saving session ended

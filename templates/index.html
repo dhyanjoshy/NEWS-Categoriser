@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+    <div class="container mt-4">
+        <h1 class="text-center">Link Processor</h1>
+        <form method="POST" class="mt-4">
+            <div class="mb-3">
+                <label for="link" class="form-label">Enter Link:</label>
+                <input type="text" id="link" name="link" class="form-control" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Process</button>
+        </form>
+
+        {% if result is not none %}
+            <div class="alert alert-success mt-4" role="alert">
+                Task started! Task Id: <strong>{{ result }}</strong>
+            </div>
+        {% endif %}
+    </div>
+{% endblock %}
